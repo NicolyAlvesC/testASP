@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PimSite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfece0450e9866199a0595d2cc9b14756bc74f79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2baa994a2b2a7229e68195d2636a82ad334c9619")]
 [assembly: System.Reflection.AssemblyProductAttribute("PimSite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PimSite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
